@@ -1,0 +1,44 @@
+.dad-content {
+  margin: 2rem;
+}
+
+.dad-header {
+  height: 6rem;
+  background-color: #0000B2;
+}
+
+.dad-header-text {
+  margin-left: 4rem;
+  color: #FFFF00;
+  font-size: 4rem;
+  font-family: HIQROUGH;
+}
+
+.add-button-container {
+  float: right;
+  color: #FFFF00;
+  font-size: 3rem;
+  padding: 0.8rem;
+  margin-right: 0.8rem;
+  cursor: pointer;
+}
+
+@media(max-width: 800px) {
+  .dad-content {
+    margin: 1rem;
+  }
+  
+  .dad-header {
+    height: 3.2rem;
+  }
+
+  .dad-header-text {
+    margin-left: 2rem;
+    font-size: 2rem;
+  }
+
+  .add-button-container {
+    font-size: 2rem;
+    padding: 0.2rem;
+  }
+}

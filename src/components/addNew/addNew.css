@@ -1,0 +1,15 @@
+.add-new-header {
+  height: 3rem;
+  background-color: #0000B2;
+}
+
+.add-new-header-text {
+  margin-left: 1rem;
+  color: #FFFF00;
+  font-size: 2rem;
+  font-family: HIQROUGH;
+}
+
+.add-new-content {
+  margin: 1rem;
+}
